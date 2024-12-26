@@ -1,1 +1,9 @@
-{"_id":{"$oid":"676ca9619f0950227732902d"},"id paket":"786","nama paket":"standard","harga":"Rp. 50.000","durasi":"1 jam"}
+{
+  "_id":{
+    "$oid":"676ca9619f0950227732902d"
+  },
+  "id paket":"786",
+  "nama paket":"standard",
+  "harga":"Rp. 50.000",
+  "durasi":"1 jam"
+}
