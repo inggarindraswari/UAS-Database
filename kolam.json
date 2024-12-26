@@ -1,1 +1,10 @@
-{"_id":{"$oid":"676ca8b29f0950227732902b"},"id kolam":"24509008","nama kolam":"Anugerah Kolam","lokasi":"Jl. Duren Baru no.30","kapasitas":"50","jenis ikan":"Gurame"}
+{
+  "_id":{
+    "$oid":"676ca8b29f0950227732902b"
+  },
+  "id kolam":"24509008",
+  "nama kolam":"Anugerah Kolam",
+  "lokasi":"Jl. Duren Baru no.30",
+  "kapasitas":"50",
+  "jenis ikan":"Gurame"
+}
