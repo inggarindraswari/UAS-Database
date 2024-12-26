@@ -1,1 +1,11 @@
-{"_id":{"$oid":"676ca9ed9f0950227732902e"},"id transaksi":"678004","id pelanggan":"096545","id kolam":"24509008","id paket":"786","tanggal":"26/12/2024","total harga":"Rp.50.000"}
+{
+  "_id":{
+    "$oid":"676ca9ed9f0950227732902e"
+  },
+  "id transaksi":"678004",
+  "id pelanggan":"096545",
+  "id kolam":"24509008",
+  "id paket":"786",
+  "tanggal":"26/12/2024",
+  "total harga":"Rp.50.000"
+}
